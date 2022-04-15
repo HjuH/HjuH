@@ -1,7 +1,7 @@
 # HWANG JU HEE ☺️
 
 ## My Github Stats
-![HjuH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhee&show_icons=true&theme=onedark)
+![HjuH's GitHub stats](https://github-readme-stats.vercel.app/api?username=HjuH&show_icons=true&theme=onedark)
 
 ## Baekjoon Online Judge
 ### Level 🔔
