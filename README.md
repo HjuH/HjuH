@@ -15,7 +15,7 @@
 
 ### Framework
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/Spring-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## Contacts
 ![Naver Badge](https://img.shields.io/badge/Naver-03C75A.svg?&style=flat&logo=Naver&logoColor=white)
